@@ -8,7 +8,7 @@
 class MyGLWidget : public QOpenGLWidget
 {
     //Für die Singals und Slots,sonst wird dies nicht registriert
-public:
+
     Q_OBJECT
 public:
     MyGLWidget();
